@@ -46,6 +46,3 @@ To explore the dataset, identify important features affecting house prices, and 
 - Perform feature engineering and model tuning
 
 ---
-
-## 👤 Author
-**Ajay Kumar Sahu**  
