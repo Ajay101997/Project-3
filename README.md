@@ -41,8 +41,4 @@ To explore the dataset, identify important features affecting house prices, and 
 
 ---
 
-## 🚀 Future Scope
-- Build machine learning models for price prediction  
-- Perform feature engineering and model tuning
 
----
